@@ -41,3 +41,6 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: bgd
+    uniqueID: 735862495
+    locked: 0
